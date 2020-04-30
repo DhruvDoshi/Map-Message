@@ -11,6 +11,7 @@
     "react-scripts": "1.1.4",
     "reactstrap": "^6.3.0"
   },
+  // Install all of these packages on one click
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
